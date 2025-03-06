@@ -1,2 +1,5 @@
 cout<<"Subhan Altaf:";
 cout<<"St-018:";
+int num1=5,num2=3;
+cout << "divide: " << (5 / 3);
+
