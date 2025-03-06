@@ -1,6 +1,9 @@
 cout<<"Subhan Altaf:";
 cout<<"St-018:";
 int num1=5,num2=3;
+ Addition
+cout << "Sum: " << (5 + 3);
+
  Subtraction
 cout << "subtract: " << (5 - 3);
 
@@ -11,3 +14,4 @@ cout << "divide: " << (5 / 3);
 cout << "multiply: " << (5 * 3);
 Multiplication
  Multiplication
+Subtraction
