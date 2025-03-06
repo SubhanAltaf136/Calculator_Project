@@ -1,2 +1,4 @@
 cout<<"Subhan Altaf:";
 cout<<"St-018:";
+int num1=5,num2=3;
+cout << "subtract: " << (5 - 3);
